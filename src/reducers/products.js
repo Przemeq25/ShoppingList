@@ -3,6 +3,24 @@ import types from '../actions/types';
 const INITIAL_STATE = {
     listName: 'Shopping list',
     products:[
+        {
+            name: 'Mleko',
+            quantity: '2',
+            units: 'litr',
+            bought: false
+          },
+          {
+            name: 'Ziemniaki',
+            quantity: '5',
+            units: 'kg',
+            bought: false
+          },
+          {
+            name: 'Szynka',
+            quantity: '30',
+            units: 'dag',
+            bought: false
+          }
        
     ],
 }
