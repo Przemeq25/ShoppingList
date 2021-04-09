@@ -6,6 +6,9 @@ In the project directory, you can run:
 
 ### `yarn start`
 
+<p align="center" >
+    <img alt="Gatsby" src="https://media.graphcms.com/e8kLFxtVSqiEMGiflRPb" width="100" />
+</p>
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
